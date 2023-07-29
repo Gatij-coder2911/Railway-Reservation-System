@@ -3,7 +3,9 @@ This Project has been created by me and my collaborators to increase our efficie
 The Project shows the booking of Railway Tickets and how the users can create new accounts and book tickets which gets updated in local database in realtime.
 
 This Program uses 'tkinter' module for GUI and 'mysql.connector' module for Database Connection.
-
+### Prerequisites for running the Project
+- Python Software and MySQL Installed and already Setup.
+- python and mysql added to PATH in Environment Variables.
 ### Steps for Running the Project
 - Open Project folder.
 - Open Project Setup folder and run "setup.py" file.
@@ -27,6 +29,7 @@ We have also converted this project into a .EXE File which can be installed usin
 The MSI Installer consists of the online version of the above main program and also an Updater.exe which automatically downloads the udated version of the project.
 
 This version of the program requires an internet connection as the Database for this version has been created online on [CleverCloud](https://www.clever-cloud.com/)
+therefore removing the need for installation of MySQL on your system.
 
 We have used "cx_Freeze" module of Python to create the MSI installer for Windows which helped us to understand the basics of building a distributable software.
     
