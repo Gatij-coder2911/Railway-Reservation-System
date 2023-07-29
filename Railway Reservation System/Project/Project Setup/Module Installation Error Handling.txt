@@ -1,0 +1,8 @@
+If there comes an error while running the setup.py file during Modules Installation, you will need to install modules manually.
+
+1. Ensure your PC is connected to Internet and python and mysql are added to System PATH.
+2. Open Command Prompt and run these commands one by one,
+
+	pip install mysql-connector-python
+	
+	pip install tkcalendar

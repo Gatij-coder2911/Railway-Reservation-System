@@ -1,0 +1,4 @@
+Open Project folder.
+Open Project setup folder and run "setup.py" file, if any error is encounterred please read "Module Installation Error Handling.txt" file.
+
+After all things are set go back to main Project Folder and run the Program "Railway Reservation System.py".
