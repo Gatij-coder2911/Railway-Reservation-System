@@ -1,6 +1,7 @@
 # Railway-Reservation-System
 This Project has been created by me and my collaborators to increase our efficiency in Python programming.
 The Project shows the booking of Railway Tickets and how the users can create new accounts and book tickets which gets updated in local database in realtime.
+The Owner of the Code also has special access to Reset the Database.
 
 This Program uses 'tkinter' module for GUI and 'mysql.connector' module for Database Connection.
 ### Prerequisites for running the Project
