@@ -24,9 +24,11 @@ After all things are set go back to main Project Folder and run the Program "Rai
 ## MSI-Installer
 We have also converted this project into a .EXE File which can be installed using the MSI installer from our website.
 
-The MSI Installer consists of the above main program and also an Updater.exe which automatically downloads the udated version of the project.
+The MSI Installer consists of the online version of the above main program and also an Updater.exe which automatically downloads the udated version of the project.
+
+This version of the program requires an internet connection as the Database for this version has been created online on [CleverCloud](https://www.clever-cloud.com/)
 
 We have used "cx_Freeze" module of Python to create the MSI installer for Windows which helped us to understand the basics of building a distributable software.
     
 - Setup Link - https://python-adda.wixsite.com/python-adda/projects-8
-- Note: You need to first install the Python Software included in the .zip file and may need to disable the antivirus software if it interrupts
+- Note: You need to first install the Python Software (version-3.10) included in the .zip file and may need to disable the antivirus software if it interrupts.
