@@ -5,7 +5,8 @@ The Project shows the booking of Railway Tickets and how the users can create ne
 This Program uses 'tkinter' module for GUI and 'mysql.connector' module for Database Connection.
 
 ### Steps for Running the Project
-Open Project folder. Open Project Setup folder and run "setup.py" file.
+- Open Project folder.
+- Open Project Setup folder and run "setup.py" file.
 
 If there comes an error while running the setup.py file during Modules Installation, you will need to install modules manually:-
 
